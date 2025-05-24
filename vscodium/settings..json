@@ -1,0 +1,13 @@
+{
+  "editor.fontFamily": "Input Mono, Fira Code, monospace",
+  "editor.fontSize": 12,
+  "editor.tabSize": 4,
+  "editor.insertSpaces": true,
+  "workbench.sideBar.location": "right",
+  "debug.showInStatusBar": "never",
+  "workbench.enableExperiments": false,
+  "workbench.colorTheme": "Solarized Light",
+  "window.autoDetectColorScheme": true,
+  "workbench.preferredDarkColorTheme": "Solarized Dark",
+  "workbench.preferredLightColorTheme": "Solarized Light"
+}
